@@ -28,3 +28,7 @@ Backend: https://github.com/SeanOverton/django-csit314
 🧟 An endless 3D zombie game:
 -
 https://github.com/CSCI356/ZombieGame
+
+🪐 Pocket planet mobile game:
+-
+https://github.com/Dean-Overton/cube-planet
