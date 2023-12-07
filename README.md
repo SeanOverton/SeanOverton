@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Here's a quick summary of a few of my public projects and contributions (so far 😉). I continue to look for more projects and am currently making more of an effort to break into the open-source community and contirbute to an open-source project! 
+Here's a quick summary of a few of my public projects and contributions (so far 😉). I currently continue to seek to contirbute to more open-source projects! 
+
 
 📖 My complete reading list:
 -
@@ -11,11 +12,15 @@ https://github.com/SeanOverton/books-i-have-read
 -
 https://github.com/SeanOverton/example-platform-eng-serverless-infra
 
+😎 Rengine
+-
+https://github.com/yogeshojha/rengine
+
 🤘 Some playing with Rust
 -
 https://github.com/SeanOverton/RustCLITextEditor
 
-☢️ Helping out in medical research:
+☢️ Open source oncology researchg project:
 -
 https://github.com/didymo/OnkoDICOM
 
