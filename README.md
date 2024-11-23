@@ -2,6 +2,9 @@
 
 Here's a quick summary of a few of my public projects and contributions (so far 😉). I currently continue to seek to contirbute to more open-source projects! 
 
+💬 Chat CLI App
+-
+https://github.com/SeanOverton/golang-chat-app
 
 📖 My complete reading list:
 -
