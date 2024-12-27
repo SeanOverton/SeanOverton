@@ -27,7 +27,7 @@ https://github.com/SeanOverton/RustCLITextEditor
 -
 https://github.com/didymo/OnkoDICOM
 
-🚗 A uni project (webapp) connecting mechanics to drivers in need:
+🚗 A uni project (webapp) connecting mechanics to drivers:
 -
 Frontend: https://github.com/SeanOverton/CSIT314-Frontend
 <br/>
